@@ -3,7 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # screenshots of the table data
+![image](https://github.com/CodesSachin/mmmTest/assets/71680245/b50d6dc9-2151-46ef-8a64-0f6d9df276d9)
 
+# to run project 
+step:1 Do yarn install in mmmtest folder
+step:2 Run command npm run start
 
 ## Available Scripts
 
