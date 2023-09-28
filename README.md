@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # screenshots of the table data
-
+![Alt text](<Screenshot 2023-09-26 184021.png>)
 
 ## Available Scripts
 
