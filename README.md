@@ -1,9 +1,14 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# screenshots of the table
+![Table Image](<Screenshot 2023-09-29 130935.png>)
 
-# screenshots of the table data
-![Alt text](<Screenshot 2023-09-26 184021.png>)
+
+# to run project 
+Step 1- Run yarn install in MMTTEST folder
+Step 2- Run yarn start in the same folder
+
 
 ## Available Scripts
 
